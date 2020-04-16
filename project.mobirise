@@ -49,14 +49,15 @@
     "uniqCompNum": 17,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/image-1.webp",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
